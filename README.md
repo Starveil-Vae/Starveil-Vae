@@ -1,4 +1,4 @@
-<pre style="
+<!-- <pre style="
   all: unset;
   display: block;
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, 'Segoe UI Mono', 'Roboto Mono', 'Noto Mono', 'Ubuntu Mono', 'Courier New', monospace;
@@ -14,16 +14,20 @@
  ░██  ░██   ░███████  ░██ ░█████████ ░██      ░██░█████████
   ░██░██   ░██   ░██  ░██ ░██        ░██      ░██░██
    ░███     ░█████░██ ░██  ░███████  ░██      ░██ ░███████
-</pre>
+</pre> -->
+
+# Valerie
 
 ## 3D designer & tinkerer
+
 ### I have been working with Blender since I was around 12 years old and love making passion projects!
+
 I also learnt to work with Arduino and ESP32/8266 devices and more. Software and hardware are just some of my many passions!
 I also maintain a couple of Minecraft servers, websites and hosting infrastructure for fun in my free time.
 
 * 🌍  I'm based in Belgium
 * 🚄  I'm a big transport fan
-* 🌈  I'm 21 years old
+* 🌈  I'm 22 years old
 * ✉️  You can contact me at [inquiries.vaelux@outlook.com](mailto:inquiries.vaelux@outlook.com)
 * 🚀  I'm currently working on many things at once!
 * ✨  I have my own website [here!](https://vaelux.com)

@@ -12,7 +12,6 @@ I also maintain a couple of Minecraft servers, websites and hosting infrastructu
 * 🌈  I'm 22 years old
 * ✉️  You can contact me at [starveilvae@outlook.com](mailto:starveilvae@outlook.com)
 * 🚀  I'm currently working on many things at once!
-* 🤝  I'm open to collaborating on interesting projects and things that are in my skillset
 
 <b>My Socials</b>
 

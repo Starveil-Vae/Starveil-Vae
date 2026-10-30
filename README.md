@@ -10,6 +10,7 @@ I also maintain a couple of Minecraft servers, websites and hosting infrastructu
 * 🌍  I'm based in Belgium
 * 🚄  I'm a big transport fan
 * 🌈  I'm 22 years old
+* ✨  I have my own website [here](https://starveil-vae.com)
 * ✉️  You can contact me at [starveilvae@outlook.com](mailto:starveilvae@outlook.com)
 * 🚀  I'm currently working on many things at once!
 
